@@ -11,7 +11,7 @@ body {
   border-bottom: 5px solid orange;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 850px) {
   .head {
     height: 40vh;
   }
@@ -30,7 +30,7 @@ body {
   background-position-x: right;
   width: 360px;
 }
-@media (max-width: 800px) {
+@media (max-width: 850px) {
   .head .img {
     width: 100%;
   }
@@ -48,7 +48,7 @@ body {
 .head .heading {
   margin: 0;
   background-color: antiquewhite;
-  font-size: 1.2rem;
+  font-size: 2rem;
   border-left: 5px solid orange;
   width: 100%;
   padding: 3%;
